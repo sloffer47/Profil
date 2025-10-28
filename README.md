@@ -4,7 +4,7 @@ Copie ce contenu dans ton repo public nommé *exactement* comme ton pseudo GitHu
 ex: github.com/ton-pseudo/ton-pseudo
 -->
 
-<h1 align="center">👋 Salut, moi c’est <span style="color:#00C3FF;">Youri</span></h1>
+<h1 align="center">👋 Hello, moi c’est <span style="color:#00C3FF;">Yorick MBANDOU</span></h1>
 
 <p align="center">
   <em>🚀 Data Engineer passionné par la Data, le Cloud et l’IA appliquée à la performance industrielle.</em>
