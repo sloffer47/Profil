@@ -1,5 +1,5 @@
 <!-- README de profil GitHub pour @sloffer47 -->
-<h1 align="center">👋 Salut — moi  <span style="color:#00C3FF;"></span></h1>
+<h1 align="center"> <span style="color:#00C3FF;"></span></h1>
 
 <p align="center">
   <em>Data Engineer • MLOps • Cloud • Streaming • Automatisation</em><br/>
